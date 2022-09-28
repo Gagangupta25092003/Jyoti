@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jyoti</string>
+    <string name="title_activity_main_jyoti">MainJyotiActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>
